@@ -1,5 +1,0 @@
-split terminal
-mongod --dbpath "D:\js-basics\learning Node.js\rest-api\data"    -terminal 1
-nodemon server.js -terminal 2
-
-tutorial: https://medium.com/zero-equals-false/building-a-restful-crud-api-with-node-js-jwt-bcrypt-express-and-mongodb-4e1fb20b7f3d 
