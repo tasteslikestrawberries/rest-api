@@ -1,0 +1,3 @@
+split terminal
+mongod --dbpath "D:\js-basics\learning Node.js\rest-api\data"    -terminal 1
+nodemon server.js -terminal 2
